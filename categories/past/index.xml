@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>往事陈书 on 树袋穹的试验场</title><link>https://namix.github.io/categories/past/</link><description>Recent content in 往事陈书 on 树袋穹的试验场</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 25 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://namix.github.io/categories/past/index.xml" rel="self" type="application/rss+xml"/><item><title>新个站上线感想与鸣谢</title><link>https://namix.github.io/p/%E6%96%B0%E4%B8%AA%E7%AB%99%E4%B8%8A%E7%BA%BF%E6%84%9F%E6%83%B3%E4%B8%8E%E9%B8%A3%E8%B0%A2/</link><pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate><guid>https://namix.github.io/p/%E6%96%B0%E4%B8%AA%E7%AB%99%E4%B8%8A%E7%BA%BF%E6%84%9F%E6%83%B3%E4%B8%8E%E9%B8%A3%E8%B0%A2/</guid><description>&lt;p>从零开始动次打次一通装修后终于成功上线，学习了很多关于前端的新知识，特别鸣谢以下开源资源：&lt;/p>
+&lt;h3 id="网站基础hugo">网站基础：Hugo &lt;a class="link" href="https://gohugo.io/" target="_blank" rel="noopener"
+>https://gohugo.io/&lt;/a>
+&lt;/h3>&lt;h3 id="网站主题stack">网站主题：Stack &lt;a class="link" href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener"
+>https://github.com/CaiJimmy/hugo-theme-stack&lt;/a>
+&lt;/h3>&lt;h3 id="网站字体猫啃糖圆">网站字体：猫啃糖圆 &lt;a class="link" href="https://chinese-font.netlify.app/zh-cn/fonts/mkwtyt/MaoKenTangYuan" target="_blank" rel="noopener"
+>https://chinese-font.netlify.app/zh-cn/fonts/mkwtyt/MaoKenTangYuan&lt;/a>
+&lt;/h3>&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-diff" data-lang="diff">&lt;span class="line">&lt;span class="cl">static/fonts/MaoKenTangYuan.ttf
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">assets/scss/custom.scss
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h3 id="网站指针xe08-mygo鼠标指针">网站指针：xe08 MYGO鼠标指针 &lt;a class="link" href="https://space.bilibili.com/99765183" target="_blank" rel="noopener"
+>https://space.bilibili.com/99765183&lt;/a>
+&lt;/h3>&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-diff" data-lang="diff">&lt;span class="line">&lt;span class="cl">static/images/cursor/*.gif ← 动画鼠标图标
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">static/css/custom.css ← 样式控制
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">static/js/custom.js ← 鼠标跟随逻辑
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">layouts/partials/custom-head.html
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">layouts/partials/custom-footer.html
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>还在工事中：&lt;/p>
+&lt;h3 id="网站评论区">网站评论区
+&lt;/h3>&lt;h3 id="网站友链">网站友链
+&lt;/h3>&lt;h3 id="网站美化个性化">网站美化/个性化
+&lt;/h3>&lt;p>目前的网站Logo是七海千秋&lt;/p></description></item><item><title>燃烧，奔向远方</title><link>https://namix.github.io/p/%E7%87%83%E7%83%A7%E5%A5%94%E5%90%91%E8%BF%9C%E6%96%B9/</link><pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate><guid>https://namix.github.io/p/%E7%87%83%E7%83%A7%E5%A5%94%E5%90%91%E8%BF%9C%E6%96%B9/</guid><description>&lt;p>纵观我粗浅的人生，从来没有任何一刻像此刻一般变化复杂。&lt;/p>
+&lt;p>三年完成大学，将GPA从1升到3以上，前进过，停下过，而现在，终于到了下一个转折点。我所塑造，我所计划的一切，光线共于此刻所汇聚，伏笔于现在所揭开。虽然无法邪魅一笑“计画通り”，但在无数的孤独悲伤与压抑下，我的时间，终于开始重新转动。&lt;/p>
+&lt;p>故事构造了复杂的人，而错误使故事不那么一成不变。假如人们都走向同一个终点，结局将如何折射出不一样的意义？&lt;/p>
+&lt;p>一切，都在乎于自己的选择。但我也时常在想，人所常会产生的最大的错觉，就是以为自己有选择。聊到未来聊到青春，这些概念有着让人触手可及的错觉，但我身边的大多数人没有能力或者环境去如此闪耀。“每个人深究起来都有点意思，以至于被人仔细看见这件事近似于爱”。某种意义上，也可以说许多人都没有机会被好好的看见。&lt;/p>
+&lt;p>想起了两年前接到的患者，那个孤身一人神志不清的老太太，还有她腰上突出来的拳头大的肿瘤。60%的血氧，要不是被人发现，她大概会保持那个半个身子跌倒床下的姿势死去吧。这种事情的关注度将不如学校停车场overdose而死的情侣的百分之一，虽然无论哪者都会和她床头的合照一样随时间消散，无人铭记。&lt;/p>
+&lt;p>“谁不希望有人陪它迷路，有人为它指出前进的方向呢？”&lt;/p>
+&lt;p>所以，我的选择又是什么呢？一路走过许多岔路，犯下许多错误，坚持着，前进着。也可以说，一切，都关乎于自己所想达成的事物。人类是很强大的，在无比扁平化的现在，很多事情只要愿意去做，坚持去追寻，往往都能获得一个不错的结果。但一个需要携手并进的事情，难度就会比一个人大很多。&lt;/p>
+&lt;p>毕业在即，对校园恋爱的理想成为遗憾。但是初心未曾改变：与喜欢的人共度一生，想好好爱着人，也被人好好爱着。虽然有从失败的感情关系中不断进步，但这是否是平凡的我在追寻人力所不及的事物呢？只有未来的她能给我答案。&lt;/p>
+&lt;p>包装好的血汗更香甜，但我还不屑于带上假面。家门口的蒲公英都起飞了，又一个夏天即将到来。很多经历不需要再忽视，很多脆弱不需要再隐藏。在自己拉动控制杆飞起到千米高空的时候，在这苍穹展翅。其实这也是一个galgame的名字，说实话觉得感情线写的一般，但飞的时候总是忍不住想到那个故事。&lt;/p>
+&lt;p>该启程了，希望早日不再独自一人。Be committed, be well.&lt;/p></description></item><item><title>第一千条微博</title><link>https://namix.github.io/p/%E7%AC%AC%E4%B8%80%E5%8D%83%E6%9D%A1%E5%BE%AE%E5%8D%9A/</link><pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate><guid>https://namix.github.io/p/%E7%AC%AC%E4%B8%80%E5%8D%83%E6%9D%A1%E5%BE%AE%E5%8D%9A/</guid><description>&lt;p>我很喜欢夜晚。&lt;/p>
+&lt;p>一个人独思的时候，与喜欢的人聊天的时候，十分疲惫尽情休息的时候，夜晚往往能给我留下美好的回忆。虽说这是海马体中受到美化的记忆，也并不妨碍那些时光本身的闪耀。&lt;/p>
+&lt;p>闪耀的又或是路灯。初中住校时养成的习惯，便是拉闸后去阳台上边吹风边看风景。夜晚的城乡结合部是水泥草原的一望无际，远处高楼大厦的防撞灯配合着橙黄色的路灯光照亮了天空。在缺乏隐私和个人空间的集体生活中，这些独处时光是我独有的享受。现在的我不再缺乏个人空间，孤独也成了挥之不去的老友，但很久没有独自思考人生了。&lt;/p>
+&lt;p>说是思考人生，本质仍是无意义信息的大杂烩。碎片化的情绪输出依赖着微博，社交媒体的经营毫无重点。我本不是一个特别“合群”的人。加入群聊因为不想太过脱离群体，平时也不怎么和人网上聊天，标志着我与现代网络生活方式的脱节。然而我也是极为依靠现代网络生活的，只能说我在将其作为现充生活的延伸上很失败吧。&lt;/p>
+&lt;p>“努力家”。&lt;/p>
+&lt;p>如果说世上有什么树袋穹Bias，大概率就是这个自我评价的词语了。努力不假，但在周围人的衬托下未免又有些可爱。这种无力感大概很难有人能够共情，周围的人拥有一切，自己的努力只是在赶上他们轻松拥有的事物。面对言谈举止中都透露出的家境优越，对于一些平等友好的建议（“租房子太贵了，我们一起买一套吧”）也只能苦笑。不过并不是在抱怨这一点，我不喜欢抱怨任何事。这是工作中收到的评价，也是事实，在我看来如果不愿意大可不做。如果说有什么负面情绪在抒发的话，还是因为没有能够一起前进，分享心情的对象吧。&lt;/p>
+&lt;p>变荡的世界与不变的孤独，回头一看自己的文笔还下降了这么多，不免叹气。时逢第一千条微博，我有着什么变化，什么成长呢？思考着有的没的，想着以前的她，玩着自己头发，人生没有倒退键的话，也只有吸取教训继续前进了。跑着前进，走着前进，爬着前进，做着脏活累活，哭嚎着孤独，样子很难看的前行着。 同甘是件很快乐的事情，但没几个人愿意共苦。想着也不知道算不算安慰的话，继续干活。&lt;/p>
+&lt;p>初心倒是没变就是了：与喜欢的人共度一生。只是越发发现这个理想竟是如此难以实现的一个梦。想到尚未成为理想的自己，有些释然，又十分沮丧。仍是比较期望两个人一起成为理想的彼此这种童话故事。&lt;/p>
+&lt;p>Anyway，向着黑墙的那一端发出大喊：“来找我吧，在日出之前！”，重新专注在手中的事上。虽然被理想的她所回应的几率是如此之小，但也没有关系。成为理想的自己后，游戏也才刚刚开始呢。&lt;/p></description></item><item><title>Keep on Keeping on</title><link>https://namix.github.io/p/keep-on-keeping-on/</link><pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate><guid>https://namix.github.io/p/keep-on-keeping-on/</guid><description>&lt;p>Life suxks.&lt;/p>
+&lt;p>房间充斥着烧焦的起酥油的味道，再加上消防员、警察，朋友等人进出所带来的空气交换，就算窗户排气扇与空气净化器全部开到最大也无甚作用。鼻腔里弥漫的苦味让我喜欢的睡眠也变成了一种折磨，毕竟用被子盖住头也无法从空气中逃脱。&lt;/p>
+&lt;p>要说起因，是室友出门忘了关灶台。人都有疏忽的时候，我也不打算怪他，但这难以忍受的气味使我难受到了极点，就如同生活一般。在情况不明晰时四处联系，感谢报警人与救援人员，照顾猫咪与室友的负面情绪，同朋友一起清点受损情况。All for nothing. 谁在乎呢？或许我就该赖在车上玩手机。&lt;/p>
+&lt;p>但一如既往的，一切刻薄的想法与恶意都被我埋在心底，尽管没有人会夸我。暴力冲动逐渐增加，但又很好的被我所控制。只有在这种地方不受情绪干扰，某种意义上我真是可悲的男人，被好人与温柔的概念所束缚。明明也是希望成为这样的人的，或许是没人陪伴的负面效果吧，就如同自我了结的愿望一般。清空枪膛，顶上下颚，用力抠动扳机，耳边只有撞针工作的声音。我仍在前进，无论环境。&lt;/p>
+&lt;p>I mean，我喜欢理工学校的一点在于，少有上流阶级会来这种地方光顾，但又不是完全没有。相较于大城市学校常有的贫富差距，这里的人说好听叫友善，说难听就是看人很扁平化。有人的地方就有江湖，drama是肯定有的，但总的来说大家是看能力交朋友。我是个废物，但又没有那么废物，恰好是上下左右逢缘的交际对象，只识其人而不知其人，折衷到存在感很微妙的一个地步，又会轻易的被单身所击垮。&lt;/p>
+&lt;p>但，一切都又是我自己的选择。我预见了，我实践了，我体验了。我知道也有能力选择其他方向，但是我拒绝了。如果真有人看低我，虽然不至于9mm defense教它做人，也并非不能aggressive起来，尽管我很讨厌这样。&lt;/p>
+&lt;p>说到底，还是不知道该去向何方。未来是个奢侈的诅咒，想成为利己主义者，但终究是向利他主义者的方向一去不回。&lt;/p></description></item><item><title>19岁的大败北</title><link>https://namix.github.io/p/19%E5%B2%81%E7%9A%84%E5%A4%A7%E8%B4%A5%E5%8C%97/</link><pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate><guid>https://namix.github.io/p/19%E5%B2%81%E7%9A%84%E5%A4%A7%E8%B4%A5%E5%8C%97/</guid><description>&lt;p>时代是在不断前进的。为了建立一个个人站自己做了各种学习与准备，然而wordpress早已全部集成，一键便生成了这个网站。除了在模板（编辑与美化）上有些问题外，实在是顺利的出乎意料。&lt;/p>
+&lt;p>不过作为一个个人站，我将要如何使用它呢？现在还暂不明确。毕竟，个人博客可以说是一个逆潮流的东西。它较之平台难以取得他人的关注度，需要花精力与时间维护，而且所含信息量过大就相当于实名上网。就算不全是原创，如果想保证信息的高质量，也需要大量的编辑与总结，这通过其他软件（如云笔记）会方便很多。&lt;/p>
+&lt;p>但无论如何，www.sdq.home.blog还是出生了。出生于1999年的我赶上了千禧一代的头班车，也一头撞在了那个不断进化，充满希望与惊喜的年代的南墙上。小学率先用上了vista和Windows7，但初中在电视台用着的是sony的磁带摄像机。机器人从图像编程到 Android Studio ，大学再在greenfoot上栽了个跟头。我既是保守而怀旧的，也是激进而现代的。有人告诉我，她想做一个知世故又不知世故的人，我每次也只是首肯，心想性格上成为这样的人和外在（结果）上成为这样的人不甚相同。而我当时也确是年轻而幼稚，单方面把失望与不满藏在心间，缺乏沟通与理解。今日回头一看，倒觉确实还是她有理些。&lt;/p>
+&lt;p>扯得远了点。时代可以说变了，但也可以说没变。人类还停留在石器时代未曾进步，我约莫也是一样。&lt;/p>
+&lt;p>我向来是对吃瓜这一行为不擅长的。&lt;/p>
+&lt;p>无论是什么瓜，其本质上也还是人与人社交的一部分。对于我来说，这种过于现充的活动就像漫展一样不明所以，群聊一样望而生畏。&lt;/p>
+&lt;p>我是在圈子中不假，但我并无太多的社交。番剧漫画游戏与视频，乃至泛生的声优，偶像，三次元活动。我观看，收藏，把美好藏在心间。对于我来说，处在这种独有的，小众的文化环境里，就像呆在自己房间一样舒服。人类几千年的发展与进化，使像在乌托邦一样只追求精神幸福的生活成为可能。&lt;/p>
+&lt;p>但毕竟只是可能而已。&lt;/p>
+&lt;p>2019年，地球上生活着超过75亿人。然而近半数人口每天的生活开销不到5.5美元，接近10%的人类处于极端贫困状态。每一年，全球会有33%的食品被浪费，而56%的浪费发生在工业化国家。气候变暖，环境恶化，适合人类生存的土地也正在不断减少。&lt;/p>
+&lt;p>“远离了战线，乐观主义会取代现实。然而在决策被做出之前，现实是完全不存在的，在败战时尤其如此。”&lt;/p>
+&lt;p>没有人能意识到我们处于一场什么样的战争中，更没有人意识到战争已经开始，且能站起来承担起一个成年人的责任。人口越多，人们反而越是一群乌合之众。自工业社会以来的文明发展，资本主义始终是站在时代的前沿。但在这样的系统中，金字塔顶端的人却没有所应有的视野与行动。最后，人们被系统所操纵，成为除了逐利以外一无所知的一块齿轮。
+人们是自由的，却也是被囚禁的。公司与寡头政治家族同社会玩着传承皇位的游戏。科技的发展只让逐利与互相控制的效率增加，落后的制度稳定而无人试图改善。&lt;/p>
+&lt;p>“社会规则存在着价值判断与明确的意志，这种意志是谁的？”&lt;/p>
+&lt;p>二十岁前的一点迷思。&lt;/p></description></item></channel></rss>

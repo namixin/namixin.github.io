@@ -1,0 +1,12 @@
+* {
+  cursor: none !important;
+}
+
+.cursor-gif {
+  position: fixed;
+  width: 32px;
+  height: 32px;
+  pointer-events: none;
+  z-index: 9999;
+  image-rendering: pixelated;
+}

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>抛砖引玉 on 树袋穹的试验场</title><link>https://namix.github.io/categories/build/</link><description>Recent content in 抛砖引玉 on 树袋穹的试验场</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 25 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://namix.github.io/categories/build/index.xml" rel="self" type="application/rss+xml"/><item><title>新个站上线感想与鸣谢</title><link>https://namix.github.io/p/%E6%96%B0%E4%B8%AA%E7%AB%99%E4%B8%8A%E7%BA%BF%E6%84%9F%E6%83%B3%E4%B8%8E%E9%B8%A3%E8%B0%A2/</link><pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate><guid>https://namix.github.io/p/%E6%96%B0%E4%B8%AA%E7%AB%99%E4%B8%8A%E7%BA%BF%E6%84%9F%E6%83%B3%E4%B8%8E%E9%B8%A3%E8%B0%A2/</guid><description>&lt;p>从零开始动次打次一通装修后终于成功上线，学习了很多关于前端的新知识，特别鸣谢以下开源资源：&lt;/p>
+&lt;h3 id="网站基础hugo">网站基础：Hugo &lt;a class="link" href="https://gohugo.io/" target="_blank" rel="noopener"
+>https://gohugo.io/&lt;/a>
+&lt;/h3>&lt;h3 id="网站主题stack">网站主题：Stack &lt;a class="link" href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener"
+>https://github.com/CaiJimmy/hugo-theme-stack&lt;/a>
+&lt;/h3>&lt;h3 id="网站字体猫啃糖圆">网站字体：猫啃糖圆 &lt;a class="link" href="https://chinese-font.netlify.app/zh-cn/fonts/mkwtyt/MaoKenTangYuan" target="_blank" rel="noopener"
+>https://chinese-font.netlify.app/zh-cn/fonts/mkwtyt/MaoKenTangYuan&lt;/a>
+&lt;/h3>&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-diff" data-lang="diff">&lt;span class="line">&lt;span class="cl">static/fonts/MaoKenTangYuan.ttf
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">assets/scss/custom.scss
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h3 id="网站指针xe08-mygo鼠标指针">网站指针：xe08 MYGO鼠标指针 &lt;a class="link" href="https://space.bilibili.com/99765183" target="_blank" rel="noopener"
+>https://space.bilibili.com/99765183&lt;/a>
+&lt;/h3>&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-diff" data-lang="diff">&lt;span class="line">&lt;span class="cl">static/images/cursor/*.gif ← 动画鼠标图标
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">static/css/custom.css ← 样式控制
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">static/js/custom.js ← 鼠标跟随逻辑
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">layouts/partials/custom-head.html
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">layouts/partials/custom-footer.html
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>还在工事中：&lt;/p>
+&lt;h3 id="网站评论区">网站评论区
+&lt;/h3>&lt;h3 id="网站友链">网站友链
+&lt;/h3>&lt;h3 id="网站美化个性化">网站美化/个性化
+&lt;/h3>&lt;p>目前的网站Logo是七海千秋&lt;/p></description></item><item><title>电话套餐FirstNet安利与实战</title><link>https://namix.github.io/p/%E7%94%B5%E8%AF%9D%E5%A5%97%E9%A4%90firstnet%E5%AE%89%E5%88%A9%E4%B8%8E%E5%AE%9E%E6%88%98/</link><pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate><guid>https://namix.github.io/p/%E7%94%B5%E8%AF%9D%E5%A5%97%E9%A4%90firstnet%E5%AE%89%E5%88%A9%E4%B8%8E%E5%AE%9E%E6%88%98/</guid><description>&lt;p>中文互联网上关于这个电话套餐的信息很少，本着增加有效信息的想法，向互联网大海抛砖引玉一下，或许能帮到有需要的人。&lt;/p>
+&lt;h2 id="特点优势">特点（优势）
+&lt;/h2>&lt;h4 id="first-priority">First Priority：
+&lt;/h4>&lt;p>FirstNet 用户在所有网络流量中享有最高优先权和抢占权，商业流量无法占用。 在人员密集、网络严重拥堵的情况下，商业用户会被强制转移到其他频段，甚至直接断网。（你的毫米波5G很快，现在是我的了(ﾟ∀。)）&lt;/p>
+&lt;h4 id="band14">Band14：
+&lt;/h4>&lt;p>联邦政府专门为FirstNet预留的14号频段频谱。相比其他频段，Band 14拥有更强的穿透力，意味着在可以离无线信号塔更远的地方收到信号，城市地下室、电梯、楼梯间等弱信号区域也能保持更强的连接。当频段被锁定时，只有First Net的客户可以访问该频段，目前没有其他运营商可以使用 14 频段（美版iPhone唯一的硬件优势x）。&lt;/p>
+&lt;p>Band 14 也是美国唯一一个按照3GPP标准，允许高功率用户设备（HPUE）以最高允许功率（Power Class 1）进行通信的频段。&lt;/p>
+&lt;h4 id="专属运营中心与信号车队">专属运营中心与信号车队：
+&lt;/h4>&lt;p>FirstNet拥有额外的180 多个陆基和机载便携式基站。这些设备无需依赖商业电力，通过卫星连接至FirstNet网络，负责在出现重大事件时维持FirstNet服务的能力。五辆通讯车与3架Flying COW（无人机基站）提供在大型活动与灾难时的额外网络资源。收到紧急请求后，全美范围内预计可在14小时内完成部署。&lt;/p>
+&lt;h4 id="连接范围">连接范围：
+&lt;/h4>&lt;p>FirstNet目前覆盖超过297万平方英里，比商业网络多出 25 万平方英里，覆盖了99% 的美国人。具体实现方案为在所有现有的 AT&amp;amp;T 基站上额外安装 Band 14基站，并额外建设1,000 多个FirstNet的信号塔与基站以连接农村和偏远地区。更大的拓展计划在筹备中。&lt;/p>
+&lt;p>顺便一提ATT普通用户的乡村覆盖在最近五年间也通过FirstNet的基建投资得到了非常多的提升，特别是在美国许多原来没有任何运营商服务覆盖的地方，现在都由FirstNet新建的塔提供网络覆盖，也顺带使ATT用户喝到了汤。而其他两家运营商没有政府补贴，则并没有很强的动力搞大基建，甚至还因为关闭各自的3G CDMA网络导致其网络覆盖范围缩小，令人唏嘘。T-Mobile已经开始试图发展FirstNet的竞品并申请Band14的使用，结果如何尚待观察。&lt;/p>
+&lt;h4 id="缺点">缺点：
+&lt;/h4>&lt;p>超贵的国际漫游套餐：$12/天，$110/月，$60-100邮轮套餐&lt;/p>
+&lt;p>FirstNet 网络内的优先级：
+虽然FirstNet整体享有网络优先级，但默认情况下仅为 Tier 4（基础优先级），需要相关部门操作才可提升到更高等级（你抢占商业流量很爽，但现在网络归我特勤局先用了x）。&lt;/p>
+&lt;p>资格限制：
+FirstNet申请需要符合特定身份条件。不过覆盖范围已经很广，包含：消防员、警察、急救人员、公诉人（检察官）、法官、联邦或州政府职员、以及部分电信运营商的工作人员等。
+可以在这个网站查询自己的资格和进行注册申请：https://www.firstnet.com/signup/&lt;/p>
+&lt;h2 id="实战">实战：
+&lt;/h2>&lt;h4 id="step1">Step1:
+&lt;/h4>&lt;p>找一个离家近的ATT实体店（Costco的好像不行，需要更多DP验证），告诉柜台你要办FirstNet。之后向柜员提供驾照和身份证明，然后在平板上填写个人信息。接着店员就会问会问你是想申请新号码还是把旧号码转入 FirstNet。&lt;/p>
+&lt;h4 id="step2optional">Step2（Optional）:
+&lt;/h4>&lt;p>笔者恰好需要换手机，于是分期了一个iPhone16Pro，Trade in了自己的老13mini。Port-in号码时Google Voice不成功，用Tello非常丝滑。
+（当天支付了手机的税费，和店员聊天突然想到去免税州岂不是不用付了，然后得到了肯定的答案，血亏66刀）&lt;/p>
+&lt;h4 id="step3">Step3:
+&lt;/h4>&lt;p>验证身份。笔者在约一天后收到了来自FirstNet的认证邮件，上传相关证明后，大约一个小时就通过审核，十分顺利。
+（一个小插曲是笔者的正式ID还要几个月才能拿到，部门比较穷等凑够人再一起制作（今年County又砍预算了）），上传的是自己部门的花名册但也顺利通过。&lt;/p>
+&lt;h4 id="step4">Step4:
+&lt;/h4>&lt;p>恭喜你成功加入了FirstNet，然而也要小心ATT的捆绑贩卖。笔者在没有任何操作的情况下自动Enroll了ATT的手机保护套餐，还有NextUpAnytime的自动升级服务，使每月账单多出了27$。尽管笔者当天就进网站里取消了，但是当月还是被收费了。建议建议大家在申请时务必跟柜台确认清楚相关附加服务，以避免被薅。&lt;/p>
+&lt;h2 id="结语">结语：
+&lt;/h2>&lt;p>笔者的最终月付约$47/月，该方式理论最低成本约$44月。 减去手机成本每月等效话费大概为$25。虽然算不上最便宜的套餐，但考虑到其各种独占优势，官网常年各种offer，时不时还能用ATT的优惠，还是非常有竞争力的。&lt;/p></description></item></channel></rss>
