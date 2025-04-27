@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>抛砖引玉 on 树袋穹的试验场</title><link>https://namix.github.io/categories/build/</link><description>Recent content in 抛砖引玉 on 树袋穹的试验场</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 25 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://namix.github.io/categories/build/index.xml" rel="self" type="application/rss+xml"/><item><title>新个站上线感想与鸣谢</title><link>https://namix.github.io/p/%E6%96%B0%E4%B8%AA%E7%AB%99%E4%B8%8A%E7%BA%BF%E6%84%9F%E6%83%B3%E4%B8%8E%E9%B8%A3%E8%B0%A2/</link><pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate><guid>https://namix.github.io/p/%E6%96%B0%E4%B8%AA%E7%AB%99%E4%B8%8A%E7%BA%BF%E6%84%9F%E6%83%B3%E4%B8%8E%E9%B8%A3%E8%B0%A2/</guid><description>&lt;p>从零开始动次打次一通装修后终于成功上线，学习了很多关于前端的新知识，特别鸣谢以下开源资源：&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>抛砖引玉 on 树袋穹的试验场</title><link>https://namix.github.io/categories/build/</link><description>Recent content in 抛砖引玉 on 树袋穹的试验场</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 25 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://namix.github.io/categories/build/index.xml" rel="self" type="application/rss+xml"/><item><title>新个站上线鸣谢与感想</title><link>https://namix.github.io/p/%E6%96%B0%E4%B8%AA%E7%AB%99%E4%B8%8A%E7%BA%BF%E9%B8%A3%E8%B0%A2%E4%B8%8E%E6%84%9F%E6%83%B3/</link><pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate><guid>https://namix.github.io/p/%E6%96%B0%E4%B8%AA%E7%AB%99%E4%B8%8A%E7%BA%BF%E9%B8%A3%E8%B0%A2%E4%B8%8E%E6%84%9F%E6%83%B3/</guid><description>&lt;p>从零开始动次打次一通装修后终于成功上线，学习了很多关于前端的新知识，特别鸣谢以下开源资源：&lt;/p>
 &lt;h3 id="网站基础hugo">网站基础：Hugo &lt;a class="link" href="https://gohugo.io/" target="_blank" rel="noopener"
 >https://gohugo.io/&lt;/a>
 &lt;/h3>&lt;h3 id="网站主题stack">网站主题：Stack &lt;a class="link" href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener"
@@ -37,7 +37,19 @@
 &lt;h3 id="网站评论区">网站评论区
 &lt;/h3>&lt;h3 id="网站友链">网站友链
 &lt;/h3>&lt;h3 id="网站美化个性化">网站美化/个性化
-&lt;/h3>&lt;p>目前的网站Logo是七海千秋&lt;/p></description></item><item><title>电话套餐FirstNet安利与实战</title><link>https://namix.github.io/p/%E7%94%B5%E8%AF%9D%E5%A5%97%E9%A4%90firstnet%E5%AE%89%E5%88%A9%E4%B8%8E%E5%AE%9E%E6%88%98/</link><pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate><guid>https://namix.github.io/p/%E7%94%B5%E8%AF%9D%E5%A5%97%E9%A4%90firstnet%E5%AE%89%E5%88%A9%E4%B8%8E%E5%AE%9E%E6%88%98/</guid><description>&lt;p>中文互联网上关于这个电话套餐的信息很少，本着增加有效信息的想法，向互联网大海抛砖引玉一下，或许能帮到有需要的人。&lt;/p>
+&lt;/h3>&lt;p>网站统计模块尚在寻找合适的接口，目前的Logo是七海千秋&lt;/p>
+&lt;p>也算是一个很难得的机会重新审视自己，以及一路走来经历的所有。&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-diff" data-lang="diff">&lt;span class="line">&lt;span class="cl">A thing of beauty, I know, will never fade away.
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">And I&amp;#39;ll do my duty, I know, Somehow I&amp;#39;ll find a way.
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div></description></item><item><title>电话套餐FirstNet安利与实战</title><link>https://namix.github.io/p/%E7%94%B5%E8%AF%9D%E5%A5%97%E9%A4%90firstnet%E5%AE%89%E5%88%A9%E4%B8%8E%E5%AE%9E%E6%88%98/</link><pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate><guid>https://namix.github.io/p/%E7%94%B5%E8%AF%9D%E5%A5%97%E9%A4%90firstnet%E5%AE%89%E5%88%A9%E4%B8%8E%E5%AE%9E%E6%88%98/</guid><description>&lt;p>中文互联网上关于这个电话套餐的信息很少，本着增加有效信息的想法，向互联网大海抛砖引玉一下，或许能帮到有需要的人。&lt;/p>
 &lt;h2 id="特点优势">特点（优势）
 &lt;/h2>&lt;h4 id="first-priority">First Priority：
 &lt;/h4>&lt;p>FirstNet 用户在所有网络流量中享有最高优先权和抢占权，商业流量无法占用。 在人员密集、网络严重拥堵的情况下，商业用户会被强制转移到其他频段，甚至直接断网。（你的毫米波5G很快，现在是我的了(ﾟ∀。)）&lt;/p>

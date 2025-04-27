@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>往事陈书 on 树袋穹的试验场</title><link>https://namix.github.io/categories/past/</link><description>Recent content in 往事陈书 on 树袋穹的试验场</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 25 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://namix.github.io/categories/past/index.xml" rel="self" type="application/rss+xml"/><item><title>新个站上线感想与鸣谢</title><link>https://namix.github.io/p/%E6%96%B0%E4%B8%AA%E7%AB%99%E4%B8%8A%E7%BA%BF%E6%84%9F%E6%83%B3%E4%B8%8E%E9%B8%A3%E8%B0%A2/</link><pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate><guid>https://namix.github.io/p/%E6%96%B0%E4%B8%AA%E7%AB%99%E4%B8%8A%E7%BA%BF%E6%84%9F%E6%83%B3%E4%B8%8E%E9%B8%A3%E8%B0%A2/</guid><description>&lt;p>从零开始动次打次一通装修后终于成功上线，学习了很多关于前端的新知识，特别鸣谢以下开源资源：&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>往事陈书 on 树袋穹的试验场</title><link>https://namix.github.io/categories/past/</link><description>Recent content in 往事陈书 on 树袋穹的试验场</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 25 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://namix.github.io/categories/past/index.xml" rel="self" type="application/rss+xml"/><item><title>新个站上线鸣谢与感想</title><link>https://namix.github.io/p/%E6%96%B0%E4%B8%AA%E7%AB%99%E4%B8%8A%E7%BA%BF%E9%B8%A3%E8%B0%A2%E4%B8%8E%E6%84%9F%E6%83%B3/</link><pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate><guid>https://namix.github.io/p/%E6%96%B0%E4%B8%AA%E7%AB%99%E4%B8%8A%E7%BA%BF%E9%B8%A3%E8%B0%A2%E4%B8%8E%E6%84%9F%E6%83%B3/</guid><description>&lt;p>从零开始动次打次一通装修后终于成功上线，学习了很多关于前端的新知识，特别鸣谢以下开源资源：&lt;/p>
 &lt;h3 id="网站基础hugo">网站基础：Hugo &lt;a class="link" href="https://gohugo.io/" target="_blank" rel="noopener"
 >https://gohugo.io/&lt;/a>
 &lt;/h3>&lt;h3 id="网站主题stack">网站主题：Stack &lt;a class="link" href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener"
@@ -37,7 +37,19 @@
 &lt;h3 id="网站评论区">网站评论区
 &lt;/h3>&lt;h3 id="网站友链">网站友链
 &lt;/h3>&lt;h3 id="网站美化个性化">网站美化/个性化
-&lt;/h3>&lt;p>目前的网站Logo是七海千秋&lt;/p></description></item><item><title>燃烧，奔向远方</title><link>https://namix.github.io/p/%E7%87%83%E7%83%A7%E5%A5%94%E5%90%91%E8%BF%9C%E6%96%B9/</link><pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate><guid>https://namix.github.io/p/%E7%87%83%E7%83%A7%E5%A5%94%E5%90%91%E8%BF%9C%E6%96%B9/</guid><description>&lt;p>纵观我粗浅的人生，从来没有任何一刻像此刻一般变化复杂。&lt;/p>
+&lt;/h3>&lt;p>网站统计模块尚在寻找合适的接口，目前的Logo是七海千秋&lt;/p>
+&lt;p>也算是一个很难得的机会重新审视自己，以及一路走来经历的所有。&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-diff" data-lang="diff">&lt;span class="line">&lt;span class="cl">A thing of beauty, I know, will never fade away.
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">And I&amp;#39;ll do my duty, I know, Somehow I&amp;#39;ll find a way.
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div></description></item><item><title>燃烧，奔向远方</title><link>https://namix.github.io/p/%E7%87%83%E7%83%A7%E5%A5%94%E5%90%91%E8%BF%9C%E6%96%B9/</link><pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate><guid>https://namix.github.io/p/%E7%87%83%E7%83%A7%E5%A5%94%E5%90%91%E8%BF%9C%E6%96%B9/</guid><description>&lt;p>纵观我粗浅的人生，从来没有任何一刻像此刻一般变化复杂。&lt;/p>
 &lt;p>三年完成大学，将GPA从1升到3以上，前进过，停下过，而现在，终于到了下一个转折点。我所塑造，我所计划的一切，光线共于此刻所汇聚，伏笔于现在所揭开。虽然无法邪魅一笑“计画通り”，但在无数的孤独悲伤与压抑下，我的时间，终于开始重新转动。&lt;/p>
 &lt;p>故事构造了复杂的人，而错误使故事不那么一成不变。假如人们都走向同一个终点，结局将如何折射出不一样的意义？&lt;/p>
 &lt;p>一切，都在乎于自己的选择。但我也时常在想，人所常会产生的最大的错觉，就是以为自己有选择。聊到未来聊到青春，这些概念有着让人触手可及的错觉，但我身边的大多数人没有能力或者环境去如此闪耀。“每个人深究起来都有点意思，以至于被人仔细看见这件事近似于爱”。某种意义上，也可以说许多人都没有机会被好好的看见。&lt;/p>
